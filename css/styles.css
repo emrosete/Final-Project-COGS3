@@ -1,0 +1,67 @@
+#title {
+    background-color: rgb(241, 237, 201);
+}
+
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+em {
+    color: #8f8f8f;
+    text-align: center; 
+}
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: rgb(241, 237, 201);
+}
+
+#cta{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: rgb(241, 237, 201);
+}
+#HTML-Section{
+    text-align: center;
+    padding: 7% 15%;
+
+}
+/* COGS3 studyBuddy specific styles go here. */
